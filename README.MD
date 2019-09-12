@@ -1,0 +1,1 @@
+# Demonstração de uma pilha estática em Java
